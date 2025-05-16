@@ -1,3 +1,10 @@
-const path = require('path');
+1;
+2;
+3;
+4;
 
-console.log(path.join('a', 'b', 'c', 'd', 'e.js'));
+// use shorcut sort ascending to sort the array
+apple;
+banana;
+carrot;
+grape;
